@@ -1,0 +1,26 @@
+{
+
+"product" : [
+    {"id":1,"name":"Drongo, fork-tailed","category":"Khaki"},
+    {"id":2,"name":"Long-billed cockatoo","category":"Yellow"},
+    {"id":3,"name":"Otter, giant","category":"Blue"},
+    {"id":4,"name":"Long-necked turtle","category":"Blue"},
+    {"id":5,"name":"North American river otter","category":"Orange"},
+    {"id":6,"name":"Eurasian hoopoe","category":"Yellow"},
+    {"id":7,"name":"Bear, american black","category":"Crimson"},
+    {"id":8,"name":"Genoveva","category":"Violet"},
+    {"id":9,"name":"Blue-faced booby","category":"Orange"},
+    {"id":10,"name":"Tern, white-winged black","category":"Goldenrod"},
+    {"id":11,"name":"Bandicoot, short-nosed","category":"Khaki"},
+    {"id":12,"name":"Tamandua, southern","category":"Khaki"},
+    {"id":13,"name":"Common wallaroo","category":"Orange"},
+    {"id":14,"name":"Striped skunk","category":"Puce"},
+    {"id":15,"name":"Yellow-billed hornbill","category":"Yellow"},
+    {"id":16,"name":"European red squirrel","category":"Fuscia"},
+    {"id":17,"name":"Musk ox","category":"Violet"},
+    {"id":18,"name":"Vine snake (unidentified)","category":"Maroon"},
+    {"id":19,"name":"Marten, american","category":"Yellow"},
+    {"id":20,"name":"Gambel's quail","category":"Khaki"}
+  ]
+
+}
